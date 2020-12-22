@@ -27,7 +27,7 @@ I want to have an idea of where these attacks are originating; I want to know if
  
  Roughly speaking, around half of the IP address are in Russia amd it looks like 82% of the attacks originate from a Russian IP.
  
- ![% Attacks Originating Graph](images/%attacks_orig_bar.svg)
+ ![%_Attacks Originating Graph](images/attacks_orig_bar.svg)
 
 
 Looking at the trend data over time, it's immediately clear that a lot of the attacks occured over just three days in December of 2019. Those three days are the 29th, the 30th, and the 31st with 295,285, 1,963,501,and 1,253,876 attacks occuring on those days respectively. That adds up to roughly 7/9ths of all of the attacks.

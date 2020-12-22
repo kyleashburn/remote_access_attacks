@@ -12,10 +12,10 @@ First, I blocked the port in question so as to ensure my data would be the compl
 
 
 I started by taking the log files which had around 4.5 million log entries of attempted (and failed) logins. It was a csv which was around 8gb raw but formatted in such a way that analysis was...problematic. Thus, I had to convert the data to a format that I could work with (ideally while reducing the size.)
-I went ahead and reduced it to just the elements I thought were impoortant for my analysis. I've included that python script  prep.py in the repo and then I did the analysis of the data in jupyter notebooks. I would have included my data but github has a max file size of 100mb so my files were too large. I did include a reduced subset so you could see the format of my data before and after.
+I went ahead and reduced it to just the elements I thought were impoortant for my analysis. I've included that python script [prep.py](https://github.com/kyleashburn/remote_access_attacks/blob/main/prep.py.py) in the repo and then I did the analysis of the data in jupyter notebooks. I would have included my data but github has a max file size of 100mb so my files were too large. I did include a reduced subset so you could see the format of my data [before]() and [after processing]().
 
 
-I started with 5 questions and added a 6th one as I went along. In the course of my analysis [documented in the ipynb](http:gitub.com) I got a good idea about most of these.
+I started with 5 questions and added a 6th one as I went along. In the course of my analysis [documented in the ipynb](https://github.com/kyleashburn/remote_access_attacks/blob/main/Remote%20Access%20Attacks-checkpoint-checkpoint.ipynb) I got a good idea about most of these.
 
 ### Questions
 **1. Where are the attacks coming from?

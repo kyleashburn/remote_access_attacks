@@ -15,7 +15,7 @@ I started by taking the log files which had around 4.5 million log entries of at
 I went ahead and reduced it to just the elements I thought were impoortant for my analysis. I've included that python script [prep.py](https://github.com/kyleashburn/remote_access_attacks/blob/main/prep.py.py) in the repo and then I did the analysis of the data in jupyter notebooks. I would have included my data but github has a max file size of 100mb so my files were too large. I did include a reduced subset so you could see the format of my data [before](https://github.com/kyleashburn/remote_access_attacks/blob/main/data/6_raw.txt) and [after processing](https://github.com/kyleashburn/remote_access_attacks/blob/main/data/6_transformed.txt).
 
 
-I started with 5 questions and added a 6th one as I went along. In the course of my analysis [documented in the ipynb](https://github.com/kyleashburn/remote_access_attacks/blob/main/Remote%20Access%20Attacks-checkpoint-checkpoint.ipynb) I got a good idea about most of these.
+I started with 5 questions and added a 6th one as I went along. In the course of my analysis [documented in the ipynb](https://github.com/kyleashburn/remote_access_attacks/blob/main/Remote%20Access%20Attacks-checkpoint.ipynb) I got a good idea about most of these.
 
 ### Questions
 **1. Where are the attacks coming from?
